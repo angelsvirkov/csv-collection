@@ -1,9 +1,9 @@
 # Description
 
-This repository holds a collection of different csv files which I have gathered through various free sources. The data might sometimes not match the real world values.
+This repository holds a collection of different csv files which I have gathered through various free sources (under the GPL license). The data might sometimes not match the real world values.
 
-# Main usage
+# Usage
 
-This repo is mainly used for my bachelor thesis project which you might want to check out.
+The files in this repo should only be used as test data for *SupCharts*.
 
  https://github.com/angelsvirkov/supcharts
